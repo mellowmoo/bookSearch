@@ -1,6 +1,6 @@
 {
     "name": "booksearch-app",
-    "version": "6.9.4.20",
+    "version": "1.0",
     "description": "",
     "main": "server/server.js",
     "scripts": {
